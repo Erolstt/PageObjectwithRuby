@@ -1,1 +1,1 @@
-POC for leaf home web apps. PageObject was used as design pattern and rspec was used as test framework.
+PageObject used as design pattern and rspec used as test framework.
