@@ -1,1 +1,1 @@
-PageObject used as design pattern and rspec used as test framework.
+A basic demo to show how to use Page Object desing pattern with Ruby.
